@@ -28,7 +28,7 @@ protected:
 	UProjectileMovementComponent* ProjectileMovement;
 
 	UPROPERTY(EditDefaultsOnly, Category = "FX")
-		UParticleSystem* ExplosionParticle;
+	UParticleSystem* ExplosionParticle;
 
 public:
 
